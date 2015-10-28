@@ -1,4 +1,6 @@
 # hello-world
-A practice repository 
+==============
+Wow a new world!
+Hello world, i come from a different pixelated planet!
 
 
